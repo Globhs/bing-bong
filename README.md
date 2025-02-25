@@ -1,5 +1,6 @@
 # bing-bong 
 helo
-testing random languages
-
-python, c#, jsx, lua, react
+Achievments :O
+bomba
+bomba2
+bomba3
